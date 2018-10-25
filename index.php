@@ -104,4 +104,3 @@ function validate() {
         }
 </script>
 </html>
-<p>coucou</p>
